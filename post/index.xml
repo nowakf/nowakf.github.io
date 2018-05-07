@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on nowakf</title>
-    <link>http://example.org/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on nowakf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 May 2018 14:02:16 +0200</lastBuildDate>
     
-	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>raytracer.c</title>
-      <link>http://example.org/post/raytracer/</link>
+      <link>/post/raytracer/</link>
       <pubDate>Sat, 05 May 2018 14:02:16 +0200</pubDate>
       
-      <guid>http://example.org/post/raytracer/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://example.org/images/raytracer/raytracer1.jpg&#34; alt=&#34;ray&#34; /&gt;
+      <guid>/post/raytracer/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/raytracer/raytracer1.jpg&#34; alt=&#34;ray&#34; /&gt;
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>sketch of &#39;interregnum&#39;</title>
-      <link>http://example.org/post/interregnumsketch/</link>
+      <link>/post/interregnumsketch/</link>
       <pubDate>Mon, 05 Jun 2017 14:02:16 +0200</pubDate>
       
-      <guid>http://example.org/post/interregnumsketch/</guid>
+      <guid>/post/interregnumsketch/</guid>
       <description>&lt;p&gt;
 &lt;div class=&#34;flex-container&#34;&gt;
 	
-&lt;img src=&#34;http://example.org/images/interregnum/1.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;/images/interregnum/1.jpg&#34; alt=&#34;&#34;&gt;
 
-&lt;img src=&#34;http://example.org/images/interregnum/2.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;/images/interregnum/2.jpg&#34; alt=&#34;&#34;&gt;
 
 
 &lt;/div&gt;
@@ -43,10 +43,10 @@
     
     <item>
       <title>boomtown</title>
-      <link>http://example.org/post/boomtown/</link>
+      <link>/post/boomtown/</link>
       <pubDate>Thu, 18 May 2017 14:02:16 +0200</pubDate>
       
-      <guid>http://example.org/post/boomtown/</guid>
+      <guid>/post/boomtown/</guid>
       <description>&lt;p&gt;boom town&lt;/p&gt;
 
 &lt;p&gt;noun&amp;copy; /ˈbuːm ˌtaʊn/&lt;/p&gt;
@@ -63,19 +63,19 @@
     
     <item>
       <title>an empty space</title>
-      <link>http://example.org/post/an-empty-space/</link>
+      <link>/post/an-empty-space/</link>
       <pubDate>Sun, 14 May 2017 14:02:16 +0200</pubDate>
       
-      <guid>http://example.org/post/an-empty-space/</guid>
+      <guid>/post/an-empty-space/</guid>
       <description>&amp;ldquo;The first reported hanging in Butte was a Chinese miner hung by Dan Haffie because the Chinaman seemed to be getting all of the luck in the diggings on Silver Bow Creek. There is no record of whether Haffie&amp;rsquo;s luck improved after he hung his Chinese neighbor.&amp;rdquo;</description>
     </item>
     
     <item>
       <title>the city and its unconscious</title>
-      <link>http://example.org/post/the-city-is-a-bicameral-mind/</link>
+      <link>/post/the-city-is-a-bicameral-mind/</link>
       <pubDate>Thu, 11 May 2017 14:02:16 +0200</pubDate>
       
-      <guid>http://example.org/post/the-city-is-a-bicameral-mind/</guid>
+      <guid>/post/the-city-is-a-bicameral-mind/</guid>
       <description>Under capitalism, discourse is structured so that violence is invisible. If it reaches us at all, it comes through dry statistics, atomized experience, or anecdotal accounts.
 For this reason, violence occurs as an inexplicable irruption: a senseless fight, a riot that comes from nowhere, a burned car, a dead body you discover in the back yard.
 After some time, we mostly manage to pull these irruptions back into line. Or, we stop counting them, like the Sarkozy government did to the thousands of cars that burn every year in the banlieues.</description>
@@ -83,10 +83,10 @@ After some time, we mostly manage to pull these irruptions back into line. Or, w
     
     <item>
       <title>cordwood electronics</title>
-      <link>http://example.org/post/cordwood-electronics/</link>
+      <link>/post/cordwood-electronics/</link>
       <pubDate>Sun, 07 May 2017 14:02:16 +0200</pubDate>
       
-      <guid>http://example.org/post/cordwood-electronics/</guid>
+      <guid>/post/cordwood-electronics/</guid>
       <description>It&amp;rsquo;s difficult to overstate the deep relation between the early development of computing, and atomic weapons.
 Some of the first computers found their employment in performing the myriad calculations of the Manhattan project, and the first monolithic integrated circuit found its first customer in the US air force, whose missile guidance systems pushed the limits of both raw power, and miniaturization.
 &amp;ldquo;Had Hegel’s philosophy of history embraced this age, Hitler’s robot-bombs would have found their place beside the early death of Alexander and similar images, as one of the empirically selected facts by which the state of the world-spirit manifests itself directly in symbols.</description>
@@ -94,29 +94,29 @@ Some of the first computers found their employment in performing the myriad calc
     
     <item>
       <title>post-x, and the banal</title>
-      <link>http://example.org/post/post-internet/</link>
+      <link>/post/post-internet/</link>
       <pubDate>Tue, 02 May 2017 14:02:16 +0200</pubDate>
       
-      <guid>http://example.org/post/post-internet/</guid>
+      <guid>/post/post-internet/</guid>
       <description>Post-internet art was coined, at least in part, to describe a new phase of the internet as a cultural force - the internet as a banalized norm.
 This, I think, is crazy. We are to the internet what the first cave-painter to draw an elk was to painting. The last years have been years of tumult, torment even, and it&amp;rsquo;s not escaped anybody&amp;rsquo;s notice that these upsets have been in part, driven by the internet.</description>
     </item>
     
     <item>
       <title>diagrams of Butte</title>
-      <link>http://example.org/post/butte/</link>
+      <link>/post/butte/</link>
       <pubDate>Sun, 30 Apr 2017 14:02:16 +0200</pubDate>
       
-      <guid>http://example.org/post/butte/</guid>
+      <guid>/post/butte/</guid>
       <description>&lt;div class=&#34;flex-container&#34;&gt;
 	
-&lt;img src=&#34;http://example.org/images/butte/1.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;/images/butte/1.jpg&#34; alt=&#34;&#34;&gt;
 
-&lt;img src=&#34;http://example.org/images/butte/4.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;/images/butte/4.jpg&#34; alt=&#34;&#34;&gt;
 
-&lt;img src=&#34;http://example.org/images/butte/7.png&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;/images/butte/7.png&#34; alt=&#34;&#34;&gt;
 
-&lt;img src=&#34;http://example.org/images/butte/3.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;/images/butte/3.jpg&#34; alt=&#34;&#34;&gt;
 
 
 &lt;/div&gt;
@@ -128,10 +128,10 @@ This, I think, is crazy. We are to the internet what the first cave-painter to d
     
     <item>
       <title>PCB processes from a printmaker&#39;s perspective</title>
-      <link>http://example.org/post/pcb-printmaking/</link>
+      <link>/post/pcb-printmaking/</link>
       <pubDate>Thu, 27 Apr 2017 14:02:16 +0200</pubDate>
       
-      <guid>http://example.org/post/pcb-printmaking/</guid>
+      <guid>/post/pcb-printmaking/</guid>
       <description>(This is all theory - I&amp;rsquo;ve yet to make acid etched PCB prints - so far, I&amp;rsquo;ve just done drypoint.)
 One of the main problems facing printmakers who want to work on metal plates is the cost of everything involved, from the plates (copper, zinc), to the printing machine itself.
 From this perspective, PCB plates offer an interesting alternative. They can be etched with any kind of copper etchant (Ferric Chloride is standard), polished, and inked.</description>
@@ -139,10 +139,10 @@ From this perspective, PCB plates offer an interesting alternative. They can be 
     
     <item>
       <title>notes about the city, cosmopolitanism, freedom and utopia</title>
-      <link>http://example.org/post/notes-towards/</link>
+      <link>/post/notes-towards/</link>
       <pubDate>Thu, 27 Apr 2017 14:02:16 +0200</pubDate>
       
-      <guid>http://example.org/post/notes-towards/</guid>
+      <guid>/post/notes-towards/</guid>
       <description>BACKGROUND:
 There are a great many texts1 that talk about how, even by simple presence in a city, a sense of freedom is produced.2 This freedom comes in two components: first, the freedom from the basic violence of nature. Second, the freedom from the oppressive family structure, invasive community organization, and violence of traditional farm life.3
 The first and second points are perhaps underlying the creative vibrancy of cities. Freed from the grueling demands of agriculture, and the geographical isolation of rural community, cities have consistently been powerful sites of technical and cultural innovation.</description>
