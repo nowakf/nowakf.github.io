@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/post/raytracer/</loc>
+    <lastmod>2018-05-05T14:02:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/interregnumsketch/</loc>
+    <lastmod>2017-06-05T14:02:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/boomtown/</loc>
+    <lastmod>2017-05-18T14:02:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/an-empty-space/</loc>
+    <lastmod>2017-05-14T14:02:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/the-city-is-a-bicameral-mind/</loc>
+    <lastmod>2017-05-11T14:02:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/cordwood-electronics/</loc>
+    <lastmod>2017-05-07T14:02:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/post-internet/</loc>
+    <lastmod>2017-05-02T14:02:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/butte/</loc>
+    <lastmod>2017-04-30T14:02:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/pcb-printmaking/</loc>
+    <lastmod>2017-04-27T14:02:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/notes-towards/</loc>
+    <lastmod>2017-04-27T14:02:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/</loc>
+    <lastmod>2018-05-05T14:02:16+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2018-05-05T14:02:16+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

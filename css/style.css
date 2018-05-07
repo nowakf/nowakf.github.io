@@ -1,0 +1,34 @@
+.flex-container {
+	display: flex;
+	flex-flow: row wrap;
+}
+.flex-container > img {
+	align-self: start;
+	max-width: 390px;
+}
+
+img {
+	max-width: 800px;
+	margin: 0px;
+}
+
+a{
+	color: #4c4c4c;
+}
+a:visited{
+	color: #5c5c5c;
+}
+
+a:hover{
+	color: SlateGrey;
+}
+
+time {
+	display: inline-block;
+	float: right;
+}
+
+html {
+    margin:    0 auto;
+    max-width: 800px;
+}
