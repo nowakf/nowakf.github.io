@@ -6,22 +6,21 @@
     <description>Recent content in Posts on nowakf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 May 2018 13:16:18 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 09 Jun 2018 12:25:36 +0200</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>furnace</title>
-      <link>/post/furnace/</link>
-      <pubDate>Sun, 27 May 2018 13:16:18 +0200</pubDate>
+      <title>espylakopa</title>
+      <link>/post/espylakopa/</link>
+      <pubDate>Sat, 09 Jun 2018 12:25:36 +0200</pubDate>
       
-      <guid>/post/furnace/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/images/copper/1.jpg&#34; alt=&#34;copper&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;those chunks of molten iron which we draw from the furnaces and cast into the teeth of cylinders that turn more rapidly than the wind. These furnaces emit a liquid fire that, in its boiling and heaving, throws off a shower of glowing drops into the air; and from the teeth of the cylinder, iron emerges drastically reduced. We too, in truth, are hard pressed like these masses of iron.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <guid>/post/espylakopa/</guid>
+      <description>&lt;p&gt;&lt;video controls poster=&#34;/images/espylakopa/1.jpg&#34;&gt;
+&lt;source src=&#34;/images/espylakopa/2.webm&#34; type=&#34;video/webm&#34;&gt;
+&lt;/video&gt;
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -46,6 +45,19 @@
       
       <guid>/post/sphere/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;/images/sphere/3.jpg&#34; alt=&#34;sphere&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>furnace</title>
+      <link>/post/furnace/</link>
+      <pubDate>Thu, 17 May 2018 13:16:18 +0200</pubDate>
+      
+      <guid>/post/furnace/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/copper/1.jpg&#34; alt=&#34;copper&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;those chunks of molten iron which we draw from the furnaces and cast into the teeth of cylinders that turn more rapidly than the wind. These furnaces emit a liquid fire that, in its boiling and heaving, throws off a shower of glowing drops into the air; and from the teeth of the cylinder, iron emerges drastically reduced. We too, in truth, are hard pressed like these masses of iron.&amp;rdquo;&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
@@ -98,6 +110,15 @@
 
 &lt;p&gt;&lt;em&gt;B2: a research project examining a dead Boomtown: Butte, Montana - examining fantasy, displacement, and ecological devastation.&lt;/em&gt;
 &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>graphite</title>
+      <link>/post/graphite/</link>
+      <pubDate>Mon, 15 May 2017 13:37:56 +0200</pubDate>
+      
+      <guid>/post/graphite/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/graphite/3.jpg&#34; alt=&#34;graph&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>

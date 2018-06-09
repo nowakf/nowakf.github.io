@@ -3,8 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/furnace/</loc>
-    <lastmod>2018-05-27T13:16:18+02:00</lastmod>
+    <loc>/post/espylakopa/</loc>
+    <lastmod>2018-06-09T12:25:36+02:00</lastmod>
   </url>
   
   <url>
@@ -15,6 +15,11 @@
   <url>
     <loc>/post/sphere/</loc>
     <lastmod>2018-05-27T12:43:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/furnace/</loc>
+    <lastmod>2018-05-17T13:16:18+02:00</lastmod>
   </url>
   
   <url>
@@ -30,6 +35,11 @@
   <url>
     <loc>/post/boomtown/</loc>
     <lastmod>2017-05-18T14:02:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/graphite/</loc>
+    <lastmod>2017-05-15T13:37:56+02:00</lastmod>
   </url>
   
   <url>
@@ -74,7 +84,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2018-05-27T13:16:18+02:00</lastmod>
+    <lastmod>2018-06-09T12:25:36+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -85,7 +95,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-05-27T13:16:18+02:00</lastmod>
+    <lastmod>2018-06-09T12:25:36+02:00</lastmod>
     <priority>0</priority>
   </url>
   
