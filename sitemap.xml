@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/rmi/</loc>
+    <lastmod>2018-10-24T01:10:47+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/theta/</loc>
     <lastmod>2018-08-30T11:41:36+02:00</lastmod>
   </url>
@@ -97,7 +102,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2018-08-30T11:41:36+02:00</lastmod>
+    <lastmod>2018-10-24T01:10:47+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -108,7 +113,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-08-30T11:41:36+02:00</lastmod>
+    <lastmod>2018-10-24T01:10:47+02:00</lastmod>
     <priority>0</priority>
   </url>
   
