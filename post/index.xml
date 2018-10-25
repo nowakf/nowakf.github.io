@@ -6,10 +6,21 @@
     <description>Recent content in Posts on nowakf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Oct 2018 01:10:47 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 25 Oct 2018 12:41:37 +0200</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>nevada</title>
+      <link>/post/nevada/</link>
+      <pubDate>Thu, 25 Oct 2018 12:41:37 +0200</pubDate>
+      
+      <guid>/post/nevada/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/nevada/1.jpg&#34; alt=&#34;nevada&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>rm</title>
