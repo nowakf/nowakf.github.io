@@ -6,10 +6,19 @@
     <description>Recent content on nowakf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Oct 2018 12:41:37 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 06 Nov 2018 13:01:05 +0200</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>beejar</title>
+      <link>/post/beejar/</link>
+      <pubDate>Tue, 06 Nov 2018 13:01:05 +0200</pubDate>
+      
+      <guid>/post/beejar/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>nevada</title>
@@ -271,26 +280,6 @@ From this perspective, PCB plates offer an interesting alternative. They can be 
       <description>BACKGROUND:
 There are a great many texts1 that talk about how, even by simple presence in a city, a sense of freedom is produced.2 This freedom comes in two components: first, the freedom from the basic violence of nature. Second, the freedom from the oppressive family structure, invasive community organization, and violence of traditional farm life.3
 The first and second points are perhaps underlying the creative vibrancy of cities. Freed from the grueling demands of agriculture, and the geographical isolation of rural community, cities have consistently been powerful sites of technical and cultural innovation.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/post/rollsroycemerlin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/post/rollsroycemerlin/</guid>
-      <description>Rolls Royce Merlin
-//The relation between accuracy and repetition</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/post/schools/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/post/schools/</guid>
-      <description>The larger part of the school system were schools developed down to address this problem, as industrialists sought to educate their child labourers, and to inculcate them with the discipline, traditions, and practices of work.
-Although formal training could accelerate the acquisition of machine-relevant attitudes, it could never completely prepare its students for a workplace that was in continuous flux, nor do so without implicitly promising a future of employment, which in reality was always uncertain, no matter the training.</description>
     </item>
     
   </channel>
