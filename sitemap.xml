@@ -1,122 +1,72 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/post/beejar/</loc>
     <lastmod>2018-11-06T13:01:05+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/nevada/</loc>
-    <lastmod>2018-10-25T12:41:37+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/rmi/</loc>
-    <lastmod>2018-10-24T01:10:47+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/theta/</loc>
-    <lastmod>2018-08-30T11:41:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/espylakopa/</loc>
-    <lastmod>2018-06-09T12:25:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/missile/</loc>
-    <lastmod>2018-05-27T13:01:05+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/sphere/</loc>
-    <lastmod>2018-05-27T12:43:05+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/furnace/</loc>
-    <lastmod>2018-05-17T13:16:18+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/raytracer/</loc>
-    <lastmod>2018-05-05T14:02:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/interregnumsketch/</loc>
-    <lastmod>2017-06-05T14:02:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/boomtown/</loc>
-    <lastmod>2017-05-18T14:02:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/graphite/</loc>
-    <lastmod>2017-05-15T13:37:56+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/an-empty-space/</loc>
-    <lastmod>2017-05-14T14:02:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/the-city-is-a-bicameral-mind/</loc>
-    <lastmod>2017-05-11T14:02:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/cordwood-electronics/</loc>
-    <lastmod>2017-05-07T14:02:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/post-internet/</loc>
-    <lastmod>2017-05-02T14:02:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/butte/</loc>
-    <lastmod>2017-04-30T14:02:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/pcb-printmaking/</loc>
-    <lastmod>2017-04-27T14:02:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/notes-towards/</loc>
-    <lastmod>2017-04-27T14:02:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2018-11-06T13:01:05+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/</loc>
     <lastmod>2018-11-06T13:01:05+02:00</lastmod>
-    <priority>0</priority>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2018-11-06T13:01:05+02:00</lastmod>
+  </url><url>
+    <loc>/post/nevada/</loc>
+    <lastmod>2018-10-25T12:41:37+02:00</lastmod>
+  </url><url>
+    <loc>/post/rmi/</loc>
+    <lastmod>2018-10-24T01:10:47+02:00</lastmod>
+  </url><url>
+    <loc>/post/theta/</loc>
+    <lastmod>2018-08-30T11:41:36+02:00</lastmod>
+  </url><url>
+    <loc>/post/espylakopa/</loc>
+    <lastmod>2018-06-09T12:25:36+02:00</lastmod>
+  </url><url>
+    <loc>/post/missile/</loc>
+    <lastmod>2018-05-27T13:01:05+02:00</lastmod>
+  </url><url>
+    <loc>/post/sphere/</loc>
+    <lastmod>2018-05-27T12:43:05+02:00</lastmod>
+  </url><url>
+    <loc>/post/furnace/</loc>
+    <lastmod>2018-05-17T13:16:18+02:00</lastmod>
+  </url><url>
+    <loc>/post/raytracer/</loc>
+    <lastmod>2018-05-05T14:02:16+02:00</lastmod>
+  </url><url>
+    <loc>/post/interregnumsketch/</loc>
+    <lastmod>2017-06-05T14:02:16+02:00</lastmod>
+  </url><url>
+    <loc>/post/boomtown/</loc>
+    <lastmod>2017-05-18T14:02:16+02:00</lastmod>
+  </url><url>
+    <loc>/post/graphite/</loc>
+    <lastmod>2017-05-15T13:37:56+02:00</lastmod>
+  </url><url>
+    <loc>/post/an-empty-space/</loc>
+    <lastmod>2017-05-14T14:02:16+02:00</lastmod>
+  </url><url>
+    <loc>/post/the-city-is-a-bicameral-mind/</loc>
+    <lastmod>2017-05-11T14:02:16+02:00</lastmod>
+  </url><url>
+    <loc>/post/cordwood-electronics/</loc>
+    <lastmod>2017-05-07T14:02:16+02:00</lastmod>
+  </url><url>
+    <loc>/post/post-internet/</loc>
+    <lastmod>2017-05-02T14:02:16+02:00</lastmod>
+  </url><url>
+    <loc>/post/butte/</loc>
+    <lastmod>2017-04-30T14:02:16+02:00</lastmod>
+  </url><url>
+    <loc>/post/notes-towards/</loc>
+    <lastmod>2017-04-27T14:02:16+02:00</lastmod>
+  </url><url>
+    <loc>/post/pcb-printmaking/</loc>
+    <lastmod>2017-04-27T14:02:16+02:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/tags/</loc>
   </url>
-  
 </urlset>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on nowakf</title>
@@ -6,20 +6,14 @@
     <description>Recent content in Posts on nowakf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Nov 2018 13:01:05 +0200</lastBuildDate>
-    
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 06 Nov 2018 13:01:05 +0200</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>beejar</title>
       <link>/post/beejar/</link>
       <pubDate>Tue, 06 Nov 2018 13:01:05 +0200</pubDate>
       
       <guid>/post/beejar/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/images/beejar/1.jpg&#34; alt=&#34;1&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/beejar/1.jpg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -28,9 +22,7 @@
       <pubDate>Thu, 25 Oct 2018 12:41:37 +0200</pubDate>
       
       <guid>/post/nevada/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/images/nevada/1.jpg&#34; alt=&#34;nevada&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/nevada/1.jpg&#34; alt=&#34;nevada&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -39,9 +31,7 @@
       <pubDate>Wed, 24 Oct 2018 01:10:47 +0200</pubDate>
       
       <guid>/post/rmi/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/images/rm/1.jpg&#34; alt=&#34;rm&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/rm/1.jpg&#34; alt=&#34;rm&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -50,7 +40,7 @@
       <pubDate>Thu, 30 Aug 2018 11:41:36 +0200</pubDate>
       
       <guid>/post/theta/</guid>
-      <description>&lt;pre&gt;&lt;code&gt;}~~~a~~~}}}}}|||||||jjjjjjjjkkkkklllalll ɺɽʁʆaʅʀɻɶɲɯɫɨɦɣɡɞɜɚɗćĊČĎĐēĕĘěĞġĤĨĭĲĸaĸĳį  ÙÛÝ�ÜÚØ×ÕÔÒÑÐÏÎÍÌËËÊCCDEFGHIJKLMO
+      <description>&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;}~~~a~~~}}}}}|||||||jjjjjjjjkkkkklllalll ɺɽʁʆaʅʀɻɶɲɯɫɨɦɣɡɞɜɚɗćĊČĎĐēĕĘěĞġĤĨĭĲĸaĸĳį  ÙÛÝ�ÜÚØ×ÕÔÒÑÐÏÎÍÌËËÊCCDEFGHIJKLMO
 }}~~~a~~}}}}}|||||||jjjjjjjjkkkkkllalllk ɶɹɼʀʅaʅɿɺɵɱɭɪɧɤɡɟɜɚɗćĊČďđĔĖęĜĠģħĬıķaĸĲĮī  ØÙÚÜ�ÜÚØÖÕÓÒÑÐÎÍÍÌËÊCDDEFGHIJLMNP
 }}}~~~a~~}}}}}||||||jjjjjjjkkkkkllalllkk ɳɵɸɻʀʅaʄɾɹɴɰɬɨɥɢɠɝɚɘćĊČďĒĕĘěĞĢĦīİķaķĲĮĪĨ  Ö×ÙÚÜ�ÜÚØÖÔÓÑÐÏÎÍÌËÊCDEFGHIJKLNOQ
 }}}}~~~a~~}}}}||||||jjjjjjjkkkkllalllkkk ɰɲɴɷɻɿʄaʄɽɷɲɮɪɧɣɠɝɛɘćĊčĐēĖęĝĠĥĪįĶaķıĭĩħĤ  ÕÖ×ØÚÜ�ÜÙ×ÕÔÒÑÏÎÍÌËÊCDEFGHIJLMOQS
@@ -83,9 +73,7 @@ kkkklllallkkkkjjjjjjdddddddeeeeffafffeee ĥĨĪĮĲķaķİīĦĢĞěĘĕĒďČĊ
 kkklllallkkkkkjjjjjjdddddddeeeeeffafffee ĨīĮĲĸaķıĬħģĠĜęĖĔđďČĊ    ¢¤§ª­°´¸½ÂÈaÈÃ¿¼  MNOPRSV�USPNMKJHGFED &amp;quot;$&amp;amp;)�
 kklllallkkkkkjjjjjjjddddddddeeeeeffafffe ĬįĳĸaĸĲĭĨĤġĞěĘĕēĐĎČĊ    ¡¤¦©«®²µ¹¾ÃÈaÉÄÀ  OPQRTV�VSQOMLJIHGFED!&amp;quot;$&amp;amp;)
 klllalllkkkkkjjjjjjjddddddddeeeeefffafff İĴĸaĸĲĮĩĦĢğĜęėĔĒĐĎČĉ    ¡£¥¨ª­°³¶º¾ÃÉaÉÄ  PQRTV�VSQONLKJIHGFED !#%&#39;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     
     <item>
@@ -94,10 +82,7 @@ klllalllkkkkkjjjjjjjddddddddeeeeefffafff İĴĸaĸĲĮĩĦĢğĜęėĔĒĐĎČĉ
       <pubDate>Sat, 09 Jun 2018 12:25:36 +0200</pubDate>
       
       <guid>/post/espylakopa/</guid>
-      <description>&lt;p&gt;&lt;video controls poster=&#34;/images/espylakopa/1.jpg&#34;&gt;
-&lt;source src=&#34;/images/espylakopa/2.webm&#34; type=&#34;video/webm&#34;&gt;
-&lt;/video&gt;
-&lt;/p&gt;</description>
+      <description>&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     
     <item>
@@ -107,12 +92,9 @@ klllalllkkkkkjjjjjjjddddddddeeeeefffafff İĴĸaĸĲĮĩĦĢğĜęėĔĒĐĎČĉ
       
       <guid>/post/missile/</guid>
       <description>&lt;p&gt;&amp;ldquo;I was once working with a customer who was producing on-board software for a missile.  In my analysis of the code, I pointed out that they had a number of problems with storage leaks.  Imagine my surprise when the customers chief software engineer said &amp;ldquo;Of course it leaks&amp;rdquo;.  He went on to point out that they had calculated the amount of memory the application would leak in the total possible flight time for the missile and then doubled that number.  They added this much additional memory to the hardware to &amp;ldquo;support&amp;rdquo; the leaks.  Since the missile will explode when it hits it&amp;rsquo;s target or at the end of it&amp;rsquo;s flight, the ultimate in garbage collection is performed without programmer intervention.&amp;rdquo;&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Kent Mitchell&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;/ul&gt;</description>
     </item>
     
     <item>
@@ -121,9 +103,7 @@ klllalllkkkkkjjjjjjjddddddddeeeeefffafff İĴĸaĸĲĮĩĦĢğĜęėĔĒĐĎČĉ
       <pubDate>Sun, 27 May 2018 12:43:05 +0200</pubDate>
       
       <guid>/post/sphere/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/images/sphere/3.jpg&#34; alt=&#34;sphere&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/sphere/3.jpg&#34; alt=&#34;sphere&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -132,11 +112,8 @@ klllalllkkkkkjjjjjjjddddddddeeeeefffafff İĴĸaĸĲĮĩĦĢğĜęėĔĒĐĎČĉ
       <pubDate>Thu, 17 May 2018 13:16:18 +0200</pubDate>
       
       <guid>/post/furnace/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/images/copper/1.jpg&#34; alt=&#34;copper&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;those chunks of molten iron which we draw from the furnaces and cast into the teeth of cylinders that turn more rapidly than the wind. These furnaces emit a liquid fire that, in its boiling and heaving, throws off a shower of glowing drops into the air; and from the teeth of the cylinder, iron emerges drastically reduced. We too, in truth, are hard pressed like these masses of iron.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/copper/1.jpg&#34; alt=&#34;copper&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;those chunks of molten iron which we draw from the furnaces and cast into the teeth of cylinders that turn more rapidly than the wind. These furnaces emit a liquid fire that, in its boiling and heaving, throws off a shower of glowing drops into the air; and from the teeth of the cylinder, iron emerges drastically reduced. We too, in truth, are hard pressed like these masses of iron.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -145,8 +122,7 @@ klllalllkkkkkjjjjjjjddddddddeeeeefffafff İĴĸaĸĲĮĩĦĢğĜęėĔĒĐĎČĉ
       <pubDate>Sat, 05 May 2018 14:02:16 +0200</pubDate>
       
       <guid>/post/raytracer/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/images/raytracer/raytracer1.jpg&#34; alt=&#34;ray&#34; /&gt;
-&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/raytracer/raytracer1.jpg&#34; alt=&#34;ray&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -155,18 +131,14 @@ klllalllkkkkkjjjjjjjddddddddeeeeefffafff İĴĸaĸĲĮĩĦĢğĜęėĔĒĐĎČĉ
       <pubDate>Mon, 05 Jun 2017 14:02:16 +0200</pubDate>
       
       <guid>/post/interregnumsketch/</guid>
-      <description>&lt;p&gt;
-&lt;div class=&#34;flex-container&#34;&gt;
+      <description>&lt;div class=&#34;flex-container&#34;&gt;
 	
 &lt;img src=&#34;/images/interregnum/1.jpg&#34; alt=&#34;&#34;&gt;
 
 &lt;img src=&#34;/images/interregnum/2.jpg&#34; alt=&#34;&#34;&gt;
 
 
-&lt;/div&gt;
-
-
-&lt;/p&gt;</description>
+&lt;/div&gt;</description>
     </item>
     
     <item>
@@ -176,17 +148,11 @@ klllalllkkkkkjjjjjjjddddddddeeeeefffafff İĴĸaĸĲĮĩĦĢğĜęėĔĒĐĎČĉ
       
       <guid>/post/boomtown/</guid>
       <description>&lt;p&gt;boom town&lt;/p&gt;
-
-&lt;p&gt;noun&amp;copy; /ˈbuːm ˌtaʊn/&lt;/p&gt;
-
+&lt;p&gt;noun(c) /ˈbuːm ˌtaʊn/&lt;/p&gt;
 &lt;p&gt;-a town undergoing rapid growth due to sudden prosperity.&lt;/p&gt;
-
 &lt;p&gt;&lt;em&gt;BOOMTOWN consists of two parts:&lt;/em&gt;&lt;/p&gt;
-
 &lt;p&gt;&lt;em&gt;B1: a Computer-Numerically-Controlled (CNC) scoop, suspended over a 5 meter by 2 tray, containing strata of black iron oxide, chalk and soil.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;B2: a research project examining a dead Boomtown: Butte, Montana - examining fantasy, displacement, and ecological devastation.&lt;/em&gt;
-&lt;/p&gt;</description>
+&lt;p&gt;&lt;em&gt;B2: a research project examining a dead Boomtown: Butte, Montana - examining fantasy, displacement, and ecological devastation.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -195,7 +161,7 @@ klllalllkkkkkjjjjjjjddddddddeeeeefffafff İĴĸaĸĲĮĩĦĢğĜęėĔĒĐĎČĉ
       <pubDate>Mon, 15 May 2017 13:37:56 +0200</pubDate>
       
       <guid>/post/graphite/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/images/graphite/3.jpg&#34; alt=&#34;graph&#34; /&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/graphite/3.jpg&#34; alt=&#34;graph&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -224,9 +190,7 @@ After some time, we mostly manage to pull these irruptions back into line. Or, w
       <pubDate>Sun, 07 May 2017 14:02:16 +0200</pubDate>
       
       <guid>/post/cordwood-electronics/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/images/cordwood/1.jpg&#34; alt=&#34;circle&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/cordwood/1.jpg&#34; alt=&#34;circle&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -256,21 +220,7 @@ This, I think, is crazy. We are to the internet what the first cave-painter to d
 &lt;img src=&#34;/images/butte/3.jpg&#34; alt=&#34;&#34;&gt;
 
 
-&lt;/div&gt;
-
-
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PCB processes from a printmaker&#39;s perspective</title>
-      <link>/post/pcb-printmaking/</link>
-      <pubDate>Thu, 27 Apr 2017 14:02:16 +0200</pubDate>
-      
-      <guid>/post/pcb-printmaking/</guid>
-      <description>One of the main problems facing printmakers who want to work on metal plates is the cost of everything involved, from the plates (copper, zinc), to the printing machine itself.
-From this perspective, PCB plates offer an interesting alternative. They can be etched with any kind of copper etchant (Ferric Chloride is standard), polished, and inked. They typically cost around half what copper costs, per square centimeter. The copper is, I suspect, better quality (since there really is no incentive to not adulterate copper sheet materials, whereas alloying copper for use in electrical circuits is, I think, a bad idea1).</description>
+&lt;/div&gt;</description>
     </item>
     
     <item>
@@ -282,6 +232,16 @@ From this perspective, PCB plates offer an interesting alternative. They can be 
       <description>BACKGROUND:
 There are a great many texts1 that talk about how, even by simple presence in a city, a sense of freedom is produced.2 This freedom comes in two components: first, the freedom from the basic violence of nature. Second, the freedom from the oppressive family structure, invasive community organization, and violence of traditional farm life.3
 The first and second points are perhaps underlying the creative vibrancy of cities. Freed from the grueling demands of agriculture, and the geographical isolation of rural community, cities have consistently been powerful sites of technical and cultural innovation.</description>
+    </item>
+    
+    <item>
+      <title>PCB processes from a printmaker&#39;s perspective</title>
+      <link>/post/pcb-printmaking/</link>
+      <pubDate>Thu, 27 Apr 2017 14:02:16 +0200</pubDate>
+      
+      <guid>/post/pcb-printmaking/</guid>
+      <description>One of the main problems facing printmakers who want to work on metal plates is the cost of everything involved, from the plates (copper, zinc), to the printing machine itself.
+From this perspective, PCB plates offer an interesting alternative. They can be etched with any kind of copper etchant (Ferric Chloride is standard), polished, and inked. They typically cost around half what copper costs, per square centimeter. The copper is, I suspect, better quality (since there really is no incentive to not adulterate copper sheet materials, whereas alloying copper for use in electrical circuits is, I think, a bad idea[^]).</description>
     </item>
     
   </channel>
